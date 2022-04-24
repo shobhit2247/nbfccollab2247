@@ -1,1 +1,25 @@
-# nbfccollab2247
+Overview of NBFC Collaboration
+![image](https://user-images.githubusercontent.com/102798589/164974064-cffcfc7a-cdad-4c5d-9b29-d0e1fce2b594.png)
+
+Workers employed toward the same goal are referred to as collaborating. Despite the fact that India has over 9000 active NBFC registration, only 954 of them have book sizes of more than 40 crores. The remaining 8046+ NBFCs can only meet the INR 20 million regulatory loan book cap. NBFC Collaboration is a new enterprise term that refers to NBFC registration holders forming relationships with banks or Fintech companies in order to obtain leads and funding. Both partners may or not share profits, but both and might not be exposed to NPA risk.
+
+Traditional large NBFCs have been experiencing liquidity challenges in 2019 as a result of stringent RBI monitoring, while mid-size and small NBFCs have been performing well and have been able to draw considerable amounts of capital.
+
+NBFCs with ownership of at least 20% of loan books should finance the current loan book amount with the Bank or Fintech Company at the agreed-upon interest rate under NBFC Collaborations. If there are innovative loan products and speedy loan disbursement using the newest technology, an NBFC collaboration is fairly beneficial.
+Large-scale NBFCs suffered from the 2019 economic crisis as a result of the Reserve Bank of India's rigorous governance rules. Medium- and small-scale NBFCs, on the other hand, have struggled, although they have made headway and are now able to attract large FDI for retail lending. They are clearly gaining commercial traction. The engagement of large-scale NBFCs with Fintech startups and banks is making all of the companies participating in these operations happy. Furthermore, the NBFC collaboration will contribute to the development of new techniques for obtaining clients, as well as the achievement of the primary goal, which is to raise capital.
+
+NBFC Collaboration has its own set of problems. Let's Have a Conversation About It!
+NBFCs and banks are constantly looking for solutions to address the financial demands of the public and companies. However, as the cost of money rises, NBFCs are concentrating their efforts on building customised solutions to fulfil the demands of people. In contrast to banks, which are also regulated by the RBI, NBFCs and banks have some differences, which are stated below:
+•	Demand deposits are not accepted by non-bank financial entities (NBFIs).
+•	NBFCs are not permitted to issue checks.
+•	If you wish to protect your money, avoid NBFCs because they do not offer deposit protection.
+
+As a consequence, NBFCs must continually fight to protect their turf and build a loyal customer base. Among the different sorts of loans in which new-age NBFCs are involved are advance salary loans, student loans, medical loans, travel loans, and other forms of loans. Big data and blockchain technologies are proving to be important stepping stones in alternative lending methods, demanding large investments in technology and the bank lending procedure.
+NBFC Collaboration is a unique idea in India, in which NBFC permit holders engage with rising Fintech firms. It is carried out in order to create leads and enable funding. The agreement is being developed, and it includes the crucial features, such as the revenue distribution plan for the two sides. It also shows the percentage of NPA and the danger it poses to both parties.
+
+Large NBFCs are also experiencing liquidity issues, which may be linked to RBI restrictions; however, the situation for mid-sized and small NBFCs is different since they may draw significant amounts of FDI, enabling them to undertake retail lending with comfort. Because of the increased use of mobile phones and penetration of smartphones, NBFCs are extending out to relatively low customers by utilising their cell phones for lending institutions, e-KYC, and disbursement e-signature. By employing Robotic Automation, standard operating procedures have been streamlined, efficiency has grown, accuracy has increased, and cost savings have been kept. e-KYC, data transfer, loan disbursement and repayment, and cyber security are all examples of cutting-edge innovation used by NBFCs. APIs (application programming interfaces) are being created to increase communication amongst all parties.
+FinTechs are expanding rapidly in the field of acing technology, simplifying the tasks of banks and NBFCs. Even if NBFCs try to establish their own automated system, their progress is limited by their sluggish approach and reliance on outmoded methodology. As a result, companies in the fintech industry come in to help. In the case of NBFC Collaboration, the normal liability of 20% of the NBFC's credit books is visible, and the rate of interest is determined through which Tech business or bank funding the remaining loan book. The development of distinctive loan products, as well as efficient loan disbursement via the use of technology, is the foundation of a successful NBFC partnership.
+
+https://muds.co.in/nbfc-collaboration-service/
+![image](https://user-images.githubusercontent.com/102798589/164974078-7ca308ce-09b7-43d5-bc9c-7e6dcfeeb54c.png)
+
